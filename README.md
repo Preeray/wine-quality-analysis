@@ -44,8 +44,7 @@ The project consists of the following main steps:
 
 Below is a screenshot of the accuracy achieved by the machine learning model:
 
-![Model Accuracy](![accuracy](https://github.com/user-attachments/assets/0e4ac53f-502f-451b-b564-15aba4218922)
-)
+![accuracy](https://github.com/user-attachments/assets/e21e6b57-ee7c-44b4-9969-8f7b6af69a01)
 
 ## Usage
 
