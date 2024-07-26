@@ -1,6 +1,6 @@
 # Wine Quality Analysis
 
-This project analyzes a wine quality dataset to understand the factors affecting wine quality. The analysis involves data visualization, statistical analysis, and data preprocessing for machine learning tasks. For the purpose of this project i have converted the output to a binary output where each wine is either good quality(a score of 7 or higher)or not(a score below 7). 
+This project analyzes a wine quality dataset to understand the factors affecting wine quality. The analysis involves data visualization, statistical analysis, and data preprocessing for machine learning tasks. For the purpose of this project, I have converted the output to a binary output where each wine is either good quality(a score of 7 or higher)or not(a score below 7). 
 
 ## Dataset
 
