@@ -72,6 +72,7 @@ To run the analysis, follow these steps:
 - numpy
 - seaborn
 - matplotlib
+  (or you can also run this code in Google colab notebook as I did) 
 
 ## Contributing
 Contributions are most welcome! Please feel free to submit a pull request or open an issue to discuss improvements or bugs.
