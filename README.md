@@ -53,7 +53,7 @@ To run the analysis, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/wine-quality-analysis.git
+   git clone https://github.com/your-username/wine_quality_analysis.git
 
 2. Navigate to the project directory:
    ```sh
@@ -64,7 +64,7 @@ To run the analysis, follow these steps:
    pip install -r requirements.txt
 4. Run jupyter Notebook or google colab:
    ```sh
-   jupyter notebook wine-quality-analysis.ipynb
+   jupyter notebook wine_quality_analysis.ipynb
 
 ## Requirements
 - Python 3.x
@@ -75,5 +75,5 @@ To run the analysis, follow these steps:
 - matplotlib
 
 ## Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements or bugs.
+Contributions are most welcome! Please feel free to submit a pull request or open an issue to discuss improvements or bugs.
    
