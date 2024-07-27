@@ -32,7 +32,7 @@ The project consists of the following main steps:
 5. **Model Training and Evaluation**
    - Training machine learning models to predict wine quality.
    - Evaluating the accuracy of the models.
-     ## Models used in this project are:
+     ### Models used in this project are:
      - Logistic regression
      - KNN classifier
      - Decision tree
