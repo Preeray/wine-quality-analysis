@@ -62,7 +62,7 @@ To run the analysis, follow these steps:
 
 2. Navigate to the project directory:
    ```sh
-   cd wine_quality_analysis
+   cd wine-quality-analysis
 
 3. Install the required dependencies:
    ```sh
